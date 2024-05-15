@@ -5,4 +5,10 @@ def add_two_nums():
         print(f"The sum of {num1} and {num2} is {sum_nums}")
 
 add_two_nums()
-    
+
+
+num1 = 3
+num2 = 4
+def sub_nums(num_1, num_2):
+        print(num_1 - num_2)
+sub_nums(num2,num1)
